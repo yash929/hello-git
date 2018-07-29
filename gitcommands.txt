@@ -1,0 +1,9 @@
+﻿cd (This command is used to help you navigate to the folder where your file is saved)
+git init (This is an Initial command)
+git add File_name.extension_name (This command is used to add your file to your repository)
+git commit (This command is used to commit the changes mae by you to the repository)
+git status -m"Your Message" (This is an optional command but beneficial to yu to check out the status of your added file)
+git config --global username"Your User Name"(This command is used tell the your user name to git)
+git config --global user id"Your User id"(This command is used tell the your user id to git)
+copy the second last line rom your git repository and paste as an argument followed by enter
+git push orgin master(This command will be used to verify your user name and user id which you have mentioned in your git account)
